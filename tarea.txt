@@ -1,0 +1,7 @@
+Tomar un tema que nos guste, y crear un sitio de varias páginas en HTML y utilizar flexbox y box model para ordenar el contenido del sitio.
+
+Tiene que usar Grid y Media Query para que sea responsive 🙂
+
+Los estilos son libres, es decir pueden crear los estilos que gusten.
+
+Lo que si, el sitio debe incluir, una página de contacto, una de “acerca de..”, otra con el “home” y todas las extras que quieran.
